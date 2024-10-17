@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeHR management</string>
+    <string name="greeting">Hello</string>
+    <string name="login">Login</string>
+    <string name="welcome">Welcome %1$s</string>
+    <string name="get_summary">Get Summary</string>
+    <string name="try_gain">Try again</string>
+</resources>

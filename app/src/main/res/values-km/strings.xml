@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ការគ្រប់គ្រង WeHR</string>
+    <string name="greeting">សួស្តី</string>
+    <string name="login">ចូល</string>
+    <string name="welcome">ស្វាគមន៍ %1$s</string>
+    <string name="get_summary">សេចក្តីសង្ខេប</string>
+    <string name="try_gain">ព្យាយាមម្តងទៀត</string>
+</resources>
